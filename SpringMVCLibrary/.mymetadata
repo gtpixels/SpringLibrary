@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SpringMVCLibrary"
+  id="myeclipse.1401125463251"
+  context-root="/SpringMVCLibrary"
+  j2ee-spec="6.0"
+  archive="SpringMVCLibrary.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
